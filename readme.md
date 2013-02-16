@@ -11,8 +11,8 @@ Run the following:
     $ chflags nohidden ~/Library/
 
 
-Throw the ```.workflow``` file in:
+Throw the ```workflow``` folder in:
 
     ~/Library/Services/
     
-Then open up ```keyboard``` in ```System Preferences```, find the service and apply a keyboard shortcut
+Then open up ```keyboard``` in ```System Preferences```, find the service and assign a keyboard shortcut
