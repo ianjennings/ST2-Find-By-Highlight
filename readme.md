@@ -10,7 +10,7 @@ Just select text in any program (probably chrome), and hit whatever keyboard sho
 
 ## Install
 
-Run the following:
+Run the following to unhide the library folder in the current user's home directory:
 
     $ chflags nohidden ~/Library/
 
@@ -18,5 +18,7 @@ Run the following:
 Throw the ```workflow``` folder in:
 
     ~/Library/Services/
+
+if you don't have a Services folder, you should create one.
     
-Then open up ```keyboard``` in ```System Preferences```, find the service and assign a keyboard shortcut
+Then open up ```keyboard``` in ```System Preferences```, find the service named ```Project Search from Text``` (most likely under the ```Text``` group), and assign a keyboard shortcut.
